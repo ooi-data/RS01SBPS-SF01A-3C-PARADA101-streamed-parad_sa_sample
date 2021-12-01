@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: RS01SBPS-SF01A-3C-PARADA101-streamed-parad_sa_sample
-last_request: '2021-10-05T21:58:21.253336Z'
+last_request: '2021-12-01T21:52:44.878113Z'
 response: https://raw.githubusercontent.com/ooi-data/RS01SBPS-SF01A-3C-PARADA101-streamed-parad_sa_sample/main/history/response.json
-status: success
+status: pending
